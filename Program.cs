@@ -12,7 +12,7 @@ namespace ConsoleApp1
         }
         static void PrintFullName(string name)
         {
-            Console.WriteLine($"Your name is {name}");
+            Console.WriteLine($"Your name is dsasdesadsadsadsa{name}");
         }
         static string PrintName(string name)
         {
